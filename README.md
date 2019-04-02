@@ -1,8 +1,13 @@
-# W1D2 - Breakout on Scope (and reading code as a dev)
+# W1D2: Scopes and Reading Code
 
-[Today's code](https://gist.github.com/NimaBoscarino/fcf2d80177bc4986f138e5b856bc2832)
+[See the code and notes on GitHub](https://github.com/NimaBoscarino/scope-notes)
 
-Goals: 
+We used Javascript Tutor (http://pythontutor.com/javascript.html#mode=edit)
+
+Take a look at other instructor's lecture notes as well! There's tons of great stuff on Compass :)
+
+## Goals:
+
 1) Read code
    1) As a general programmer
    2) As a JAVASCRIPT programmer
@@ -12,12 +17,25 @@ Goals:
   - scope chain (call stack)
     - identify different levels of scope
 
-We used Javascript Tutor (http://pythontutor.com/javascript.html#mode=edit)
+## The Gauntlet
 
-Take a look at other instructor's lecture notes as well! There's tons of great stuff on Compass :)
+Nima's trademarked ideal method for learning to read JavaScript. This is made up of...
 
-Here are some examples from one of the other times that I did this lecture: https://github.com/NimaBoscarino/scope-notes
+### 9 Snippets of Code that will Change Your Life!!
+
+See the code in `snippets.js`. I've removed the actual outputs, so you'll have to run the code yourself to see what happens 😇
+
+### Python Tutor
+
+Interactive JavaScript runner (see how your code runs!)
+
+Use this! It's the BEST for revealing what's going on underneath the hood. I recommend using this to verify that your assignments this week are running the way that you _expect_ them to.
+
+## Final Thoughts
+
+I hope you enjoyed the breakout! As I mentioned, scope in JavaScript has a _tiny_ bit of more nuance, which you're going to learn about early next week. Keep up the great work!
 
 Cheers,
+Nima 🕺
 
-Nima
+
